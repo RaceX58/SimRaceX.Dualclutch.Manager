@@ -1,7 +1,7 @@
 # RaceX Bitepoint Manager
 
 This SimHub plugin allows you to store the bitepoint for each car.
-When the plugin detects a car change it automatically load the corresponding dashboard.
+When the plugin detects a car change it automatically load the corresponding bitepoint.
 
 How to install the plugin ?
 
