@@ -14,7 +14,7 @@ Lauch SimHub and activate the plugin.
 
 ## Prerequires
 
-In order to use the plugin you need to implement your own logic to the Arduino sketch controlling the clucth paddles
+In order to use the plugin you need to implement your own logic to the Arduino sketch controlling the clutch paddles
 
 The plugin exposes a Simhub property called [RaceXBitepointManagerPlugin.CurrentBitePoint]
 
