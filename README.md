@@ -6,7 +6,7 @@ When the plugin detects a car change it automatically load the corresponding das
 How to install the plugin ?
 
 Download the latest release from the Releases section :
-https://github.com/RaceX58/RaceX.Dashboard.Manager/releases
+https://github.com/RaceX58/RaceX.Bitepoint.Manager/releases
 
 Extract the zip file in your SimHub program directory.
 Lauch SimHub and activate the plugin.
@@ -65,6 +65,9 @@ public:
 
 #endif
 ```
+
+You can use the excellent library created by MorGuux to implement the dual paddle clutch in your sketch :
+https://github.com/MorGuux/PaddleClutch
 
 ## How to use the plugin ?
 
