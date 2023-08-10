@@ -1,4 +1,4 @@
-# RaceX Bitepoint Manager
+# SimRaceX Dualclutch Manager
 
 This SimHub plugin allows you to store the bitepoint for each car.
 When the plugin detects a car change it automatically load the corresponding bitepoint.
